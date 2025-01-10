@@ -40,9 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+|  título  | crie um título de um e-book sobre o tema de fundos imobiliários,o e-book tema é de investimentos e o subnicho é de fundos imobiliarios, o título deve ser informal, chamativo e curto e tenha uma tematica mais informal e comica . me liste 5 variações de títulos|
+|  título  | liste 5 variacoes do titulo ""Fundos Imobiliários: O Guia do Investidor Preguiçoso (E Rico)!"" 
+Claro! Aqui estão cinco variações do título "Fundos Imobiliários: O Guia do Investidor Preguiçoso (E Rico)!"|
+| conteúdo | estou escrevendo um ebook sobre fundos imobilarios com o titulo "O Guia do Investidor Preguiçoso (E Rico)!" |
+| conteúdo | escreve uma introdução sobre o tema para pessoas leigas, utilize um linguagem simples, divertida e jovem |
+| conteúdo | explique o que sao fundos imobiliarios  |
+| conteúdo | utilize sempre linguagem simples, divertida e jovem |
+| conteúdo | explique o que sao fundos imobiliarios |
+| conteúdo | qual o principal objetivo de quem investe em fundo imobiliario |
+| conteúdo | QUAIS AS VANTAGENS?  |
+| conteúdo | E AS DESVANTAGENS |
+| conteúdo | O QUE ANALISAR ANTES DE INVESTIR |
+| conteúdo | ONDE BUSCAR ESSAS INFORMACOES? |
+| conteúdo | ONDE PESQUISAR ESSAS INFORMACOES, DE LINKS DE SITES E EXEMPLOS PRATICOS |
 
 Craiyon：
 
