@@ -22,8 +22,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de um e-book sobre o tema de fundos imobiliários,o e-book tema é de investimentos e o subnicho é de fundos imobiliarios, o título deve ser informal, chamativo e curto e tenha uma tematica mais informal e comica . me liste 5 variações de títulos|
-|  título  | liste 5 variacoes do titulo ""Fundos Imobiliários: O Guia do Investidor Preguiçoso (E Rico)!"" 
-Claro! Aqui estão cinco variações do título "Fundos Imobiliários: O Guia do Investidor Preguiçoso (E Rico)!"|
+|  título  | liste 5 variacoes do titulo "Fundos Imobiliários: O Guia do Investidor Preguiçoso (E Rico)!"|
 | conteúdo | estou escrevendo um ebook sobre fundos imobilarios com o titulo "O Guia do Investidor Preguiçoso (E Rico)!" |
 | conteúdo | escreve uma introdução sobre o tema para pessoas leigas, utilize um linguagem simples, divertida e jovem |
 | conteúdo | explique o que sao fundos imobiliarios  |
@@ -49,8 +48,8 @@ Craiyon：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Imagens utilizadas 
+- ebook gerado durante as aulas 
 
 ## 🛠️ Instruções de execução
 
